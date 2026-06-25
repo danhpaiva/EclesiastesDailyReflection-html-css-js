@@ -23,7 +23,7 @@
 | Funcionalidade | Descrição |
 |---|---|
 | **Devocional diário** | Conteúdo sincronizado por data — mesmo versículo para todos os usuários no mesmo dia |
-| **202 devocionais** | Cobertura completa de Eclesiastes 1–12 com comentários reformados |
+| **365 devocionais** | Cobertura completa de Eclesiastes 1–12 com comentários reformados — um para cada dia do ano |
 | **Navegação entre dias** | Botões para avançar ou retroceder no calendário, com botão "Hoje" para voltar ao dia atual |
 | **Modo foco** | Expande o card para tela cheia, ocultando header e footer; suporta Fullscreen API e tecla `Esc` |
 | **Tema claro / escuro** | Alternância manual com persistência via `localStorage`; respeita `prefers-color-scheme` |
