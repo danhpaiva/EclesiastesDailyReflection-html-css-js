@@ -1,0 +1,172 @@
+/* ── Reset & Base ──────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:          #0e0e0f;
+  --surface:     #161618;
+  --border:      #2a2a2e;
+  --text:        #ddd8ce;
+  --text-muted:  #7a7670;
+  --accent:      #c4a96e;
+  --accent-dim:  #8a7248;
+  --radius:      6px;
+
+  --font-serif:  'Georgia', 'Times New Roman', serif;
+  --font-sans:   'Inter', system-ui, sans-serif;
+}
+
+html { font-size: 18px; scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-serif);
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  line-height: 1.75;
+}
+
+/* ── Layout ────────────────────────────────────────────────────────────── */
+#app {
+  width: 100%;
+  max-width: 680px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* ── Header ────────────────────────────────────────────────────────────── */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.site-label {
+  font-size: 0.72rem;
+  font-family: var(--font-sans);
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.site-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Card ──────────────────────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 2.5rem 2.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.day-label {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.reference {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+}
+
+/* ── Verse ─────────────────────────────────────────────────────────────── */
+.verse {
+  font-size: 1.35rem;
+  line-height: 1.65;
+  color: var(--text);
+  border-left: 2px solid var(--accent-dim);
+  padding-left: 1.25rem;
+  font-style: italic;
+}
+
+/* ── Divider ───────────────────────────────────────────────────────────── */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border);
+}
+
+/* ── Commentary ────────────────────────────────────────────────────────── */
+.commentary {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.85;
+}
+
+/* ── Footer ────────────────────────────────────────────────────────────── */
+.site-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.btn-share {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  padding: 0.55rem 1.1rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.btn-share:hover,
+.btn-share:focus-visible {
+  border-color: var(--accent-dim);
+  color: var(--accent);
+  outline: none;
+}
+
+.btn-share:active { opacity: 0.7; }
+
+.footer-note {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-muted);
+  opacity: 0.55;
+}
+
+/* ── Fade-in animation ─────────────────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.card { animation: fadeUp 0.55s ease both; }
+
+/* ── Responsive ────────────────────────────────────────────────────────── */
+@media (max-width: 540px) {
+  html { font-size: 16px; }
+  .card { padding: 1.75rem 1.5rem; }
+  .verse { font-size: 1.15rem; }
+}
