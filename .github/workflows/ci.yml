@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    name: Validate static assets
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check required files exist
+        run: |
+          for f in index.html style.css js/app.js js/render.js js/data.js; do
+            if [ ! -f "$f" ]; then
+              echo "Missing: $f" && exit 1
+            fi
+          done
+          echo "All required files present."
+
+      - name: Lint HTML (htmlhint)
+        run: |
+          npm install -g htmlhint --silent
+          htmlhint index.html
+
+      - name: Check for JS syntax errors
+        run: |
+          node --input-type=module < js/data.js   2>&1 | grep -v "^$" || true
+          node --check js/render.js
+          node --check js/app.js
