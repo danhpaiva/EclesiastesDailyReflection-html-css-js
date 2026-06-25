@@ -19,7 +19,7 @@ jobs:
 
       - name: Check required files exist
         run: |
-          for f in index.html style.css js/app.js js/render.js js/data.js; do
+          for f in index.html assets/css/style.css assets/js/app.js assets/js/render.js assets/js/data.js assets/js/animations.js assets/js/theme.js assets/js/focus.js; do
             if [ ! -f "$f" ]; then
               echo "Missing: $f" && exit 1
             fi
@@ -33,6 +33,7 @@ jobs:
 
       - name: Check for JS syntax errors
         run: |
-          node --input-type=module < js/data.js   2>&1 | grep -v "^$" || true
-          node --check js/render.js
-          node --check js/app.js
+          for f in assets/js/app.js assets/js/render.js assets/js/animations.js assets/js/theme.js assets/js/focus.js; do
+            node --check "$f"
+          done
+          echo "JS syntax OK."
