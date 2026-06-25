@@ -4,12 +4,16 @@ export function renderDevocional({ capitulo, versiculo, texto, comentarioTeologi
   document.getElementById('day-label').textContent = dateLabel;
   document.getElementById('reference').textContent = `Eclesiastes ${capitulo}.${versiculo}`;
 
+  /* reset commentary before each render */
+  const commentary = document.getElementById('commentary');
+  if (commentary) {
+    commentary.classList.remove('visible');
+    commentary.textContent = '';
+  }
+
   typewriterVerse(`"${texto}"`, 'verse', () => {
-    /* reveal commentary after verse finishes typing */
-    const commentary = document.getElementById('commentary');
     if (commentary) {
       commentary.textContent = comentarioTeologico;
-      /* small delay so IntersectionObserver or direct trigger works */
       requestAnimationFrame(() => commentary.classList.add('visible'));
     }
   });

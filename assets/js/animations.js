@@ -59,14 +59,12 @@ function initCardGlow() {
     const x = e.clientX - rect.left - rect.width  / 2;
     const y = e.clientY - rect.top  - rect.height / 2;
 
-    card.style.setProperty('--glow-x', `${x * 0.4}px`);
-    card.style.setProperty('--glow-y', `${y * 0.4}px`);
     card.classList.add('glow');
 
-    /* subtle tilt */
-    const tiltX = (y / rect.height) * 2;
-    const tiltY = (x / rect.width)  * -2;
-    card.style.transform = `perspective(900px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`;
+    /* subtle tilt — reduced for glassmorphism feel */
+    const tiltX = (y / rect.height) * 1.5;
+    const tiltY = (x / rect.width)  * -1.5;
+    card.style.transform = `perspective(1200px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`;
   });
 
   card.addEventListener('mouseleave', () => {
