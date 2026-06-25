@@ -450,6 +450,89 @@ body {
   opacity: 0.35;
 }
 
+/* ── Focus mode button ─────────────────────────────────────────────────── */
+.btn-focus {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--text-muted);
+  cursor: pointer;
+  margin-left: auto;
+  opacity: 0.55;
+  transition: opacity 0.2s, border-color 0.2s, color 0.2s, transform 0.2s;
+  flex-shrink: 0;
+}
+
+.btn-focus:hover,
+.btn-focus:focus-visible {
+  opacity: 1;
+  border-color: var(--border-hi);
+  color: var(--accent);
+  outline: none;
+}
+
+.btn-focus:active { transform: scale(0.88); }
+
+.icon-compress { display: none; }
+.icon-expand   { display: block; }
+
+/* ── Focus mode — body state ───────────────────────────────────────────── */
+body.focus-mode {
+  align-items: stretch;
+  padding: 0;
+}
+
+body.focus-mode #app {
+  max-width: 100%;
+  height: 100dvh;
+  gap: 0;
+}
+
+body.focus-mode .site-header,
+body.focus-mode .site-footer {
+  opacity: 0;
+  pointer-events: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 0.35s ease, max-height 0.4s ease;
+}
+
+body.focus-mode .card {
+  flex: 1;
+  border-radius: 0;
+  border: none;
+  padding: 5vh 8vw;
+  justify-content: center;
+  animation: none;
+  opacity: 1;
+  overflow-y: auto;
+}
+
+body.focus-mode .verse {
+  font-size: clamp(1.5rem, 3.5vw, 2.4rem);
+}
+
+body.focus-mode .commentary {
+  font-size: clamp(0.9rem, 1.4vw, 1.1rem);
+}
+
+body.focus-mode .btn-focus {
+  opacity: 1;
+}
+
+body.focus-mode .icon-compress { display: block; }
+body.focus-mode .icon-expand   { display: none; }
+
+/* hide btn-focus when in normal mode and card is not hovered */
+.card:not(:hover) .btn-focus {
+  opacity: 0;
+}
+
 /* ── Animations ────────────────────────────────────────────────────────── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(18px); }

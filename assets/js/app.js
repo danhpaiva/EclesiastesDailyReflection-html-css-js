@@ -1,6 +1,7 @@
 import { devocionais } from './data.js';
 import { renderDevocional, bindShare } from './render.js';
 import { initTheme } from './theme.js';
+import { initFocusMode } from './focus.js';
 
 const MAX_DAY = devocionais[devocionais.length - 1].diaDoAno;
 
@@ -77,6 +78,7 @@ function render(direction = null) {
 
 function init() {
   initTheme();
+  initFocusMode();
   render();
 
   document.getElementById('btn-prev').addEventListener('click', () => {
