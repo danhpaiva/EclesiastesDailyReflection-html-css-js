@@ -1,5 +1,6 @@
 import { devocionais } from './data.js';
 import { renderDevocional, bindShare } from './render.js';
+import { initTheme } from './theme.js';
 
 function getDayOfYear(date) {
   const start = new Date(date.getFullYear(), 0, 0);
@@ -18,6 +19,7 @@ function selectDevocional(dayOfYear) {
 }
 
 function init() {
+  initTheme();
   const today = new Date();
   const day = getDayOfYear(today);
   const devocional = selectDevocional(day);
