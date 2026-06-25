@@ -1211,4 +1211,982 @@ export const devocionais = [
     texto: "Porque Deus há de trazer a juízo toda obra, até toda obra encoberta, quer seja boa ou má.",
     comentarioTeologico: "O juízo abrange o escondido — nada escapa ao olhar divino. Este é o versículo final de Eclesiastes e sua última palavra sobre a ética humana: viva como se nada estivesse escondido, porque nada está. Para o crente, o juízo não é terror mas confirmação: tudo que Cristo fez em nós será revelado para a glória de Deus."
   },
+  {
+    diaDoAno: 203,
+    capitulo: 1, versiculo: "2",
+    texto: "Vaidade das vaidades, diz o pregador, vaidade das vaidades! Tudo é vaidade.",
+    comentarioTeologico: "Retomamos Eclesiastes do início — pois a sabedoria bíblica é cíclica como o próprio livro. Cada nova leitura revela camadas que passaram despercebidas. Calvino dizia que a Escritura cresce com o leitor: o mesmo versículo fala de modo diferente ao jovem e ao ancião, ao próspero e ao aflito."
+  },
+  {
+    diaDoAno: 204,
+    capitulo: 1, versiculo: "3",
+    texto: "Que proveito tem o homem de todo o seu trabalho com que se afadiga debaixo do sol?",
+    comentarioTeologico: "A pergunta ressoa diferente na segunda leitura. Já conhecemos a resposta do Pregador, mas o Espírito nos convida a aplicá-la ao presente concreto: o que estou construindo debaixo do sol hoje? A teologia reformada da vocação responde: trabalha como para o Senhor, não para os homens (Cl 3.23)."
+  },
+  {
+    diaDoAno: 205,
+    capitulo: 1, versiculo: "4",
+    texto: "Uma geração passa, e outra geração vem; mas a terra permanece para sempre.",
+    comentarioTeologico: "A continuidade da criação sob a descontinuidade das gerações humanas é sinal da fidelidade do pacto. A teologia reformada da aliança enfatiza que Deus não recomeça a cada geração — ele mantém o fio do pacto que atravessa Adão, Noé, Abraão e Cristo, chegando até nós."
+  },
+  {
+    diaDoAno: 206,
+    capitulo: 1, versiculo: "7",
+    texto: "Todos os rios correm para o mar, mas o mar nunca se enche; ao lugar para onde correm os rios, para lá tornam eles a correr.",
+    comentarioTeologico: "O ciclo hidrológico como metáfora da providência. Deus sustenta a criação por leis que ele mesmo estabeleceu. A doutrina reformada da providência ordinária (providentia ordinaria) ensina que o milagre maior não é a exceção às leis naturais, mas a fidelidade com que Deus as sustenta dia após dia."
+  },
+  {
+    diaDoAno: 207,
+    capitulo: 1, versiculo: "9",
+    texto: "O que foi, isso mesmo será; e o que se fez, isso se tornará a fazer; não há nada novo debaixo do sol.",
+    comentarioTeologico: "A repetição da história humana contrasta com a novidade redentora. O Novo Testamento proclama a 'nova criação' (2Co 5.17) como ruptura no ciclo do Pregador — Cristo é a verdadeira novidade debaixo e acima do sol, o único evento que não se repete e que transforma todos os outros."
+  },
+  {
+    diaDoAno: 208,
+    capitulo: 1, versiculo: "11",
+    texto: "Não há lembrança das coisas anteriores, nem haverá memória das coisas posteriores entre os que hão de vir depois.",
+    comentarioTeologico: "O esquecimento humano é diagnosticado com precisão clínica. A teologia reformada da memória distingue entre o esquecimento humano — inevitável e doloroso — e a memória divina — eterna e redentora. Deus grava os nomes dos seus na palma de sua mão (Is 49.16): esse registro não perece."
+  },
+  {
+    diaDoAno: 209,
+    capitulo: 1, versiculo: "13",
+    texto: "E apliquei meu coração a esquadrinhar e a examinar por meio da sabedoria tudo quanto se faz debaixo do céu.",
+    comentarioTeologico: "O método investigativo como vocação intelectual. A tradição reformada gerou universidades, academias e institutos precisamente porque investigar o mundo é honrar o Criador. Calvino, Turretini, Warfield — todos aplicaram seus corações a esquadrinhar, convictos de que a verdade encontrada é sempre verdade de Deus."
+  },
+  {
+    diaDoAno: 210,
+    capitulo: 1, versiculo: "14",
+    texto: "Tenho visto todas as obras que se fazem debaixo do sol; e eis que tudo é vaidade e correr atrás do vento.",
+    comentarioTeologico: "A vaidade não é niilismo, mas reorientação. Quando o Pregador declara tudo vaidade, ele não convida à paralisia, mas à conversão do olhar: de horizontal para vertical, do sol para o Criador do sol. A Reforma foi essencialmente isso — redirecionar a cristandade de obras humanas para a graça divina."
+  },
+  {
+    diaDoAno: 211,
+    capitulo: 2, versiculo: "1",
+    texto: "Eu disse no meu coração: Vem, agora, e eu te provarei com a alegria; frui, pois, o bem. Mas eis que isso também era vaidade.",
+    comentarioTeologico: "O hedonismo filosófico testado e reprovado. Epicuro prometia ataraxia — tranquilidade pela satisfação dos desejos. O Pregador fez o experimento e encontrou vaidade. A teologia reformada localiza a alegria verdadeira não na ausência de desejo, mas no desejo orientado para Deus, o único objeto capaz de saciá-lo."
+  },
+  {
+    diaDoAno: 212,
+    capitulo: 2, versiculo: "3",
+    texto: "Procurei no meu coração deixar-me levar pelo vinho, conduzindo, porém, a minha sabedoria pela prudência.",
+    comentarioTeologico: "A virtude da temperança como soberania da mente renovada sobre os apetites. A ética reformada não é puritanismo no sentido pejorativo — ela não proíbe o prazer, mas o ordena. Beber com sabedoria é diferente de beber para escapar; a distinção está na relação do coração com Deus."
+  },
+  {
+    diaDoAno: 213,
+    capitulo: 2, versiculo: "4",
+    texto: "Engrandeci as minhas obras: edifiquei-me casas, plantei-me vinhas.",
+    comentarioTeologico: "O empreendedor que constrói sem Deus como centro é arquiteto de sua própria decepção. A doutrina reformada do mandato cultural (Gn 1.28) legitima construir e plantar — mas como mordomia, não como autoproclamação. A diferença está em quem ocupa o centro do projeto."
+  },
+  {
+    diaDoAno: 214,
+    capitulo: 2, versiculo: "10",
+    texto: "E não neguei a mim mesmo coisa alguma que os meus olhos desejassem; não retive o meu coração de gozar prazer algum.",
+    comentarioTeologico: "A permissividade total como experimento espiritual. Salomão não chegou à conclusão de que o prazer é mau — chegou a que o prazer sem Deus é vazio. A teologia reformada da criação ensina que o prazer é bom quando recebido como dom do Doador, não quando buscado como substituto do próprio Deus."
+  },
+  {
+    diaDoAno: 215,
+    capitulo: 2, versiculo: "11",
+    texto: "Então atentei para todas as obras que as minhas mãos tinham feito, e para o trabalho em que me havia esforçado; e eis que tudo era vaidade e correr atrás do vento.",
+    comentarioTeologico: "O olhar retrospectivo como instrumento espiritual. A tradição puritana do exame de consciência — revisitar as obras do dia à noite — tem raiz nesse gesto de Salomão. Mas onde ele encontrou vaidade, o crente em Cristo encontra misericórdia: nossas obras são julgadas em seu Amado."
+  },
+  {
+    diaDoAno: 216,
+    capitulo: 2, versiculo: "13",
+    texto: "E vi que a sabedoria excede a loucura, como a luz excede as trevas.",
+    comentarioTeologico: "A hierarquia ontológica da luz sobre as trevas é mais que metáfora — é estrutura da criação. Deus é luz (1Jo 1.5) e a sabedoria, ao participar de Deus, participa da luz. A epistemologia reformada (Van Til) ensina que todo conhecimento verdadeiro é, em última instância, conhecimento iluminado pelo Logos eterno."
+  },
+  {
+    diaDoAno: 217,
+    capitulo: 2, versiculo: "16",
+    texto: "Porque não haverá lembrança do sábio tampouco como do tolo para sempre.",
+    comentarioTeologico: "A memória humana é frágil e seletiva — até os grandes são esquecidos. Mas a teologia reformada da glória de Deus transforma esse fato: não buscamos ser lembrados pelos homens, mas agradáveis a Deus. 'A memória do justo é bendita' (Pv 10.7) — não porque os homens lembram, mas porque Deus registra."
+  },
+  {
+    diaDoAno: 218,
+    capitulo: 2, versiculo: "17",
+    texto: "Portanto, aborreci a vida; porque a obra que se faz debaixo do sol me era pesada.",
+    comentarioTeologico: "O aborrecimento da vida como sintoma espiritual sério. A teologia reformada não romantiza o sofrimento existencial. Elias quis morrer; Jó amaldiçoou seu nascimento; Jeremias lamentou. Esses homens santos não foram repreendidos por sentir — foram sustentados pelo Deus que se fez presente no lamento."
+  },
+  {
+    diaDoAno: 219,
+    capitulo: 2, versiculo: "24",
+    texto: "Não há bem para o homem senão comer e beber, e fazer que a sua alma goze o bem no seu trabalho.",
+    comentarioTeologico: "A graça comum se manifesta nas refeições cotidianas. A teologia reformada da liturgia doméstica — as orações de mesa, o agradecimento antes de comer — enraíza o teológico no cotidiano. Cada refeição em gratidão é um ato eucarístico que antecipa a ceia escatológica do Cordeiro."
+  },
+  {
+    diaDoAno: 220,
+    capitulo: 2, versiculo: "26",
+    texto: "Porque Deus dá ao homem que lhe é bom à sua vista, sabedoria, e conhecimento, e alegria.",
+    comentarioTeologico: "Os três presentes divinos — sabedoria, conhecimento, alegria — formam a tríade da vida bem-aventurada. A teologia reformada não os separa: a sabedoria sem alegria é farisaica; a alegria sem conhecimento é sentimental; o conhecimento sem sabedoria é intelectualismo. O Espírito Santo dá os três juntos."
+  },
+  {
+    diaDoAno: 221,
+    capitulo: 3, versiculo: "1",
+    texto: "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu.",
+    comentarioTeologico: "O poema dos tempos como escola de soberania. Reconhecer que há um tempo para cada coisa é reconhecer que não sou eu quem define esse tempo. A teologia reformada da providência liberta o crente da ansiedade de controle: o soberano que fixa os tempos também conhece o meu nome."
+  },
+  {
+    diaDoAno: 222,
+    capitulo: 3, versiculo: "2",
+    texto: "Tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que se plantou.",
+    comentarioTeologico: "Nascimento e morte como moldura da existência humana. A teologia reformada do batismo e da sepultura — os dois ritos que emolduram a vida cristã — ressoa aqui: o crente nasce para Deus no batismo e morre para Deus na morte. Ambos os momentos estão nas mãos do Pai."
+  },
+  {
+    diaDoAno: 223,
+    capitulo: 3, versiculo: "4",
+    texto: "Tempo de chorar e tempo de rir; tempo de prantear e tempo de dançar.",
+    comentarioTeologico: "O calendário litúrgico reformado preserva esses ritmos: há tempo de jejum e lamento (Quarta-feira de Cinzas, Sexta-feira Santa) e tempo de festa e dança (Natal, Páscoa, Pentecostes). A fé madura habita os dois extremos sem falsidade — chora de verdade e ri de verdade."
+  },
+  {
+    diaDoAno: 224,
+    capitulo: 3, versiculo: "7",
+    texto: "Tempo de rasgar e tempo de costurar; tempo de estar calado e tempo de falar.",
+    comentarioTeologico: "A liturgia do silêncio e da palavra. A tradição reformada da pregação — longa, substancial, expositiva — sabe que a palavra bem timed vale mais que mil palavras apressadas. O pregador que aguarda o tempo de Deus para falar carrega mais peso que aquele que fala por hábito ou ansiedade."
+  },
+  {
+    diaDoAno: 225,
+    capitulo: 3, versiculo: "8",
+    texto: "Tempo de amar e tempo de aborrecer; tempo de guerra e tempo de paz.",
+    comentarioTeologico: "A guerra justa como categoria teológica. Calvino e os reformadores não eram pacifistas absolutos — reconheciam que há tempo de guerra quando a justiça o exige. Mas também sabiam que a paz é o telos escatológico: o Príncipe da Paz trará a guerra eterna ao fim (Is 9.6-7)."
+  },
+  {
+    diaDoAno: 226,
+    capitulo: 3, versiculo: "9",
+    texto: "Que proveito tem o trabalhador daquilo em que se afadiga?",
+    comentarioTeologico: "A pergunta retorna como refrão — porque a resposta precisa ser aprendida novamente a cada temporada da vida. Na prosperidade tendemos a esquecer que o proveito vem de Deus; na adversidade tendemos a duvidar que ele existe. A fé reformada responde em ambas as situações: o proveito está em conhecer e servir a Deus."
+  },
+  {
+    diaDoAno: 227,
+    capitulo: 3, versiculo: "11",
+    texto: "Ele fez tudo formoso no seu devido tempo; também pôs a eternidade no coração do homem.",
+    comentarioTeologico: "A formosura do devido tempo — a criação não apenas existe, mas é bela quando experimentada no tempo certo. A estética reformada tem raiz nessa afirmação: a beleza não é acidente, mas intencionalidade divina. Deus é artista antes de ser arquiteto — fez tudo formoso antes de declarar que era bom."
+  },
+  {
+    diaDoAno: 228,
+    capitulo: 3, versiculo: "12",
+    texto: "Eu sei que não há nenhum bem para eles, senão alegrar-se e fazer bem durante a sua vida.",
+    comentarioTeologico: "Alegria e bondade como resumo da vida bem-vivida. O Catecismo de Heidelberg (P. 86) pergunta por que devemos fazer boas obras: não para ganhar salvação, mas por gratidão. A bondade do crente brota da alegria recebida em Cristo — é fruto, não raiz."
+  },
+  {
+    diaDoAno: 229,
+    capitulo: 3, versiculo: "14",
+    texto: "Sei que tudo quanto Deus faz durará para sempre; não se lhe pode acrescentar coisa alguma, nem tirar.",
+    comentarioTeologico: "A perfeição das obras de Deus como fundamento da fé. A teologia reformada da suficiência das Escrituras (sola Scriptura) tem eco aqui: à Palavra de Deus não se acrescenta nem se retira. Os decretos divinos são igualmente perfeitos — nossa tarefa é descobri-los e obedecer, não melhorá-los."
+  },
+  {
+    diaDoAno: 230,
+    capitulo: 3, versiculo: "15",
+    texto: "O que é, já foi; e o que há de ser, já foi; e Deus procura o que já passou.",
+    comentarioTeologico: "Deus 'procura o que passou' — expressão enigmática que a teologia reformada interpreta como a memória redentora de Deus. O passado não é perdido para Deus; ele o sustenta, redime e incorpora ao seu plano eterno. A doutrina da ressurreição confirma isso: Deus procurará até os corpos sepultados."
+  },
+  {
+    diaDoAno: 231,
+    capitulo: 3, versiculo: "17",
+    texto: "Ao justo e ao ímpio julgará Deus; porque há tempo determinado para todo propósito e para toda obra.",
+    comentarioTeologico: "O juízo como certeza que sustenta a ética. Sem juízo final, a moralidade é apenas convenção social. A teologia reformada do juízo (Belgic Confession, Art. 37) afirma que o julgamento final não é metáfora, mas evento histórico — o grande ajuste de contas onde cada obra será avaliada pelo Juiz justo."
+  },
+  {
+    diaDoAno: 232,
+    capitulo: 3, versiculo: "19",
+    texto: "Porque o que sucede aos filhos dos homens, isso mesmo sucede aos animais; um mesmo acontecimento lhes acontece.",
+    comentarioTeologico: "A igualdade na mortalidade biológica como humilhação providencial. A teologia reformada usa isso como argumento contra o orgulho humano — morremos como os animais para lembrar que somos criaturas, não criadores. Mas a promessa da ressurreição é o que nos distingue definitivamente: os animais não ressuscitam."
+  },
+  {
+    diaDoAno: 233,
+    capitulo: 3, versiculo: "22",
+    texto: "Portanto, vi que não há coisa melhor do que o homem se alegrar nas suas obras; porque essa é a sua porção.",
+    comentarioTeologico: "A porção como categoria teológica de contentamento. O Catecismo de Heidelberg abre com 'minha única consolação' — a porção do crente é pertencer a Cristo. Quem tem Cristo como porção pode se alegrar em qualquer obra que faça, porque toda obra é feita na presença d'Aquele que é mais que suficiente."
+  },
+  {
+    diaDoAno: 234,
+    capitulo: 4, versiculo: "1",
+    texto: "Tenho visto as lágrimas dos oprimidos, sem que haja quem os console.",
+    comentarioTeologico: "O lamento diante da opressão é ato profético. A teologia reformada da justiça — da qual Calvino foi pioneiro ao estabelecer sistemas de assistência social em Genebra — começa precisamente aqui: ver as lágrimas e recusar-se a desviar os olhos. O Deus dos oprimidos chama seu povo a ser consolador."
+  },
+  {
+    diaDoAno: 235,
+    capitulo: 4, versiculo: "4",
+    texto: "Vi também que todo trabalho e toda habilidade em obras têm como motivo a inveja do homem para com o seu próximo.",
+    comentarioTeologico: "A inveja como motor secreto da ambição — o Pregador desvela o que a análise superficial não vê. A teologia reformada do coração (cor incurvatum in se) ensina que os motivos precisam de exame constante. A santificação inclui a purificação das motivações: trabalhar para a glória de Deus, não para superar o vizinho."
+  },
+  {
+    diaDoAno: 236,
+    capitulo: 4, versiculo: "6",
+    texto: "Melhor é um punhado de descanso do que as duas mãos cheias de trabalho e de correr atrás do vento.",
+    comentarioTeologico: "A economia do descanso como sabedoria contracultural. Numa cultura que glorifica a ocupação constante, o sábado sabático é ato de resistência e fé. A teologia reformada do sábado não é mero legalismo — é declaração de que o ser humano não se define pelo que produz, mas por quem pertence."
+  },
+  {
+    diaDoAno: 237,
+    capitulo: 4, versiculo: "9",
+    texto: "Melhor são dois do que um, porque têm melhor paga do seu trabalho.",
+    comentarioTeologico: "A superioridade da comunidade sobre o individualismo. A eclesiologia reformada — com seus presbitérios, assembleias e concílios — reflete essa sabedoria: nenhum indivíduo, por mais dotado, enxerga tudo sozinho. O governo colegial da Igreja é sabedoria prática enraizada na antropologia bíblica."
+  },
+  {
+    diaDoAno: 238,
+    capitulo: 4, versiculo: "10",
+    texto: "Pois se caírem, o um levantará o seu companheiro; mas ai do que estiver só.",
+    comentarioTeologico: "A disciplina eclesial reformada tem raiz nesse versículo: a Igreja existe para levantar os que caem, não para expulsar os fracos. Calvino reformou Genebra com estruturas de mútuo cuidado — os diáconos para o corpo, os presbíteros para a alma. Comunidade é rede de segurança, não performance de perfeição."
+  },
+  {
+    diaDoAno: 239,
+    capitulo: 4, versiculo: "12",
+    texto: "E se alguém puder prevalecer contra um, os dois lhe resistirão; e o cordão de três dobras não se rompe tão depressa.",
+    comentarioTeologico: "A solidez trinitária da aliança. A Confissão de Westminster descreve o casamento como pacto — e todo pacto tem Deus como terceira parte, o 'cordão de três dobras' que garante sua durabilidade. A mesma lógica vale para a amizade cristã e para a comunidade eclesial: o que tem Deus no centro resiste."
+  },
+  {
+    diaDoAno: 240,
+    capitulo: 5, versiculo: "1",
+    texto: "Guarda o teu pé quando fores à casa de Deus; chegar-te para ouvir é melhor do que oferecer o sacrifício dos tolos.",
+    comentarioTeologico: "A precedência da audição sobre o sacrifício ressoa com Samuel (1Sm 15.22). O princípio regulativo do culto reformado tem aqui uma das suas raízes bíblicas: a adoração começa pela Palavra recebida em humildade, não pela oferta humana apresentada em orgulho."
+  },
+  {
+    diaDoAno: 241,
+    capitulo: 5, versiculo: "2",
+    texto: "Não te precipites com a tua boca, nem o teu coração se apresse a pronunciar palavra alguma diante de Deus.",
+    comentarioTeologico: "O silêncio preparatório como disciplina litúrgica. As liturgias reformadas historicamente começavam com um momento de silêncio e confissão — reconhecimento de que entramos na presença de um Deus que fala primeiro. A pressa em falar na oração revela mais confiança em nossas palavras do que na palavra de Deus."
+  },
+  {
+    diaDoAno: 242,
+    capitulo: 5, versiculo: "4",
+    texto: "Quando a Deus fizeres algum voto, não tardes em cumpri-lo; porque não se agrada de tolos.",
+    comentarioTeologico: "A fidelidade aos votos como reflexo do caráter divino. Deus é o Deus do pacto — seus votos nunca falham. A ética reformada da promessa e do compromisso tem fundamento teológico: prometemos porque somos feitos à imagem d'Aquele que prometeu e cumpriu em Cristo."
+  },
+  {
+    diaDoAno: 243,
+    capitulo: 5, versiculo: "7",
+    texto: "Porque nas muitas palavras há muitas vaidades; teme, pois, a Deus.",
+    comentarioTeologico: "A concisão como virtude teológica. Os Reformadores eram notórios pela clareza e precisão — as confissões reformadas são modelos de linguagem econômica a serviço da verdade. A verbosidade religiosa, ao contrário, frequentemente esconde ausência de conteúdo. Poucas palavras verdadeiras valem mais que muitas palavras ocas."
+  },
+  {
+    diaDoAno: 244,
+    capitulo: 5, versiculo: "10",
+    texto: "O que ama o dinheiro nunca se fartará de dinheiro; nem o que ama as riquezas se fartará da renda.",
+    comentarioTeologico: "A insaciabilidade da cobiça como diagnóstico espiritual. Paulo identifica a cobiça como idolatria (Cl 3.5) — ela não é apenas vício moral, é crime teológico: colocar o dinheiro no lugar de Deus. A reforma da economia pessoal começa com a reforma do coração que aprende a dizer 'basta' porque encontrou o suficiente em Cristo."
+  },
+  {
+    diaDoAno: 245,
+    capitulo: 5, versiculo: "12",
+    texto: "O sono do trabalhador é suave, quer coma pouco, quer coma muito.",
+    comentarioTeologico: "O sono como termômetro espiritual. O trabalhador que dorme bem não tem ansiedade porque confia na providência de Deus para o dia seguinte. Os Salmos prometem isso: 'ele concede o sono ao seu amado' (Sl 127.2). O descanso profundo é fruto da fé, não apenas da fadiga."
+  },
+  {
+    diaDoAno: 246,
+    capitulo: 5, versiculo: "18",
+    texto: "Eis o que tenho visto: é bom e agradável comer e beber, e gozar do bem de todo o seu trabalho.",
+    comentarioTeologico: "O Pregador confirma o que Calvino chamava de 'gratidão espontânea' — a resposta natural de uma criatura que recebe os dons do Criador com olhos abertos. A piedade reformada não é somente doutrina correta, mas sensibilidade para receber o mundo como presente divino, louvando-o pelo que é e não apenas pelo que representa."
+  },
+  {
+    diaDoAno: 247,
+    capitulo: 6, versiculo: "3",
+    texto: "Se um homem gerar cem filhos, e viver muitos anos... se a sua alma não se fartar do bem.",
+    comentarioTeologico: "A longevidade e a prole sem contentamento são vazias. A teologia reformada do contentamento (baseada em Fp 4.11-13) ensina que a satisfação não é função de quantidade — filhos, anos, bens — mas de qualidade de relação com Deus. Paulo aprendeu a contentar-se em todo estado: esse aprendizado é dom do Espírito."
+  },
+  {
+    diaDoAno: 248,
+    capitulo: 6, versiculo: "7",
+    texto: "Todo o trabalho do homem é para a sua boca, e contudo o seu apetite nunca se sacia.",
+    comentarioTeologico: "O apetite insaciável como evidência da queda e convite para o Evangelho. Jesus disse: 'Eu sou o pão da vida; quem vem a mim não terá fome' (Jo 6.35). A insatisfação que o Pregador diagnostica é precisamente o vazio que prepara o coração para receber a oferta de Cristo — o único alimento que verdadeiramente sacia."
+  },
+  {
+    diaDoAno: 249,
+    capitulo: 6, versiculo: "9",
+    texto: "Melhor é o que os olhos veem do que o andar do desejo.",
+    comentarioTeologico: "O presente concreto contra o desejo abstrato. A espiritualidade reformada da gratidão cultiva a capacidade de ver o que está diante dos olhos como suficiente. O contentamento não é resignação ao inferior, mas reconhecimento de que Deus sempre deu exatamente o que era necessário — nem mais, nem menos (Pv 30.8-9)."
+  },
+  {
+    diaDoAno: 250,
+    capitulo: 7, versiculo: "1",
+    texto: "Melhor é a boa fama do que o bom ungüento; e o dia da morte do que o dia do nascimento.",
+    comentarioTeologico: "A boa fama como herança invisível. A teologia reformada do legado enfatiza o caráter como a única herança real — fortunas desaparecem, edifícios desmoronam, mas um nome associado à fidelidade e à integridade persiste. 'A memória do justo é bendita' (Pv 10.7): esse é o monumento que vale construir."
+  },
+  {
+    diaDoAno: 251,
+    capitulo: 7, versiculo: "2",
+    texto: "Melhor é ir à casa do luto do que à casa do banquete.",
+    comentarioTeologico: "O lamento como escola de sabedoria — mais eficaz que o entretenimento. A tradição reformada das visitas aos enfermos e às famílias enlutadas tem raiz aqui: o pastor que passa horas ao leito dos moribundos aprende mais teologia viva do que em bibliotecas. A proximidade com a morte purifica as prioridades."
+  },
+  {
+    diaDoAno: 252,
+    capitulo: 7, versiculo: "5",
+    texto: "Melhor é ouvir a repreensão do sábio do que ouvir o cântico dos tolos.",
+    comentarioTeologico: "A repreensão amorosa como forma de graça. A tradição reformada da disciplina eclesiástica — que Calvino considerava uma das marcas visíveis da Igreja verdadeira — tem fundamento nessa sabedoria. Receber correção com humildade é sinal de maturidade espiritual; rejeitá-la é sintoma de orgulho."
+  },
+  {
+    diaDoAno: 253,
+    capitulo: 7, versiculo: "8",
+    texto: "Melhor é o fim de alguma coisa do que o seu começo; melhor é o longânimo do que o altivo de espírito.",
+    comentarioTeologico: "A longanimidade como virtude escatológica. O crente reformado vive com os olhos no fim — não em desespero, mas em esperança. Hebreus 12 chama isso de 'olhar para Jesus, o autor e consumador da fé'. A paciência não é passividade, mas fé ativa que confia que o Consumador terminará o que começou."
+  },
+  {
+    diaDoAno: 254,
+    capitulo: 7, versiculo: "10",
+    texto: "Não digas: Por que foram os dias passados melhores do que estes?",
+    comentarioTeologico: "A nostalgia espiritual como tentação sutil. A história da Igreja está cheia de 'retornistas' que queriam voltar à pureza imaginada de uma era dourada. A teologia reformada da história progressiva da redenção (Herman Ridderbos) ensina que o movimento é para frente, não para trás: a glória escatológica supera qualquer glória passada."
+  },
+  {
+    diaDoAno: 255,
+    capitulo: 7, versiculo: "12",
+    texto: "Porque a sabedoria é sombra, como o é o dinheiro; mas a excelência do conhecimento é que a sabedoria dá vida ao que a possui.",
+    comentarioTeologico: "Sabedoria e dinheiro oferecem proteção — mas com uma diferença qualitativa decisiva: a sabedoria dá vida. Cristo, que é 'nossa sabedoria' (1Co 1.30), não apenas protege — ele vivifica. A teologia reformada da união com Cristo entende essa distinção: não é a doutrina correta que salva, mas o Cristo vivo que a doutrina revela."
+  },
+  {
+    diaDoAno: 256,
+    capitulo: 7, versiculo: "14",
+    texto: "No dia da prosperidade, goza o bem; e no dia da adversidade, considera: também este como aquele Deus o fez.",
+    comentarioTeologico: "A providência como bússola na adversidade. O Catecismo de Heidelberg (P. 27) ensina que a providência é 'o poder onipotente e a presença imediata de Deus, pela qual ele sustenta e governa o céu e a terra'. Quando o dia é difícil, 'também este Deus o fez' não é fatalismo, mas fé que transforma o sofrimento em diálogo com o Pai."
+  },
+  {
+    diaDoAno: 257,
+    capitulo: 7, versiculo: "20",
+    texto: "Com efeito, não há homem justo na terra, que faça o bem e nunca peque.",
+    comentarioTeologico: "A impotência moral universal como fundamento da necessidade do Evangelho. Paulo cita este versículo em Romanos (3.10-12) para estabelecer a culpa universal antes de proclamar a justiça gratuita em Cristo. O diagnóstico correto é condição para o remédio correto: sem a confissão da depravação, a graça perde seu esplendor."
+  },
+  {
+    diaDoAno: 258,
+    capitulo: 7, versiculo: "29",
+    texto: "Somente isto achei: que Deus fez o homem reto, mas ele se meteu em muitas astúcias.",
+    comentarioTeologico: "A retidão original e a queda voluntária — estrutura da antropologia reformada. Não fomos criados caídos; caímos por escolha livre. A doutrina do pecado original não nega a responsabilidade humana — a afirma com mais força. Somos responsáveis pela queda e incapazes de nos levantar sozinhos: daí a necessidade absoluta da graça."
+  },
+  {
+    diaDoAno: 259,
+    capitulo: 8, versiculo: "1",
+    texto: "Quem é como o sábio? e quem conhece a interpretação das coisas? A sabedoria do homem ilumina o seu rosto.",
+    comentarioTeologico: "O rosto iluminado pela sabedoria — eco do rosto de Moisés ao descer do Sinai (Êx 34.29). A teologia reformada da santificação entende que o conhecimento genuíno de Deus transforma a aparência exterior: a piedade tem uma estética própria, uma luminosidade que não se fabrica, mas se recebe na presença do Deus que é luz."
+  },
+  {
+    diaDoAno: 260,
+    capitulo: 8, versiculo: "5",
+    texto: "O que guarda o mandamento não experimentará coisa alguma má; e o coração do sábio discernirá tempo e juízo.",
+    comentarioTeologico: "Obediência e discernimento como parceiros inseparáveis. A teologia reformada da lei não a vê como grilhão, mas como pedagogo (Gl 3.24) que educa o discernimento moral. Guardar o mandamento não é ganhar proteção mágica contra o mal, mas caminhar na sabedoria que sabe reconhecer o tempo certo para cada ação."
+  },
+  {
+    diaDoAno: 261,
+    capitulo: 8, versiculo: "12",
+    texto: "Ainda que o pecador faça o mal cem vezes, e seus dias se prolonguem, contudo sei que bem irá aos que temem a Deus.",
+    comentarioTeologico: "A certeza de fé contra a evidência da experiência — essa é a fé bíblica em sua forma mais madura. O Pregador não ignora a prosperidade do ímpio; ele a vê, registra, e ainda assim declara que 'bem irá aos que temem a Deus'. Essa certeza não é ingenuidade: é ancoragem escatológica que o presente não pode abalar."
+  },
+  {
+    diaDoAno: 262,
+    capitulo: 8, versiculo: "15",
+    texto: "Então eu louvei a alegria; porque não há coisa melhor para o homem debaixo do sol do que comer, e beber, e alegrar-se.",
+    comentarioTeologico: "O louvor da alegria como conclusão teológica. O Pregador não celebra a alegria por hedonismo — ele a louva porque é dom de Deus que sobrevive à análise crítica da vaidade. A espiritualidade reformada é frequentemente mal compreendida como sombria; na verdade, seu Deus soberano é fonte inesgotável de alegria genuína."
+  },
+  {
+    diaDoAno: 263,
+    capitulo: 8, versiculo: "17",
+    texto: "Então vi toda a obra de Deus: que o homem não pode descobrir a obra que se faz debaixo do sol.",
+    comentarioTeologico: "A incompreensibilidade de Deus como convite à adoração. A teologia reformada distingue entre o Deus revelado (Deus revelatus) e o Deus escondido (Deus absconditus). Não conhecemos tudo de Deus — e isso é bom. Um Deus plenamente compreensível seria menor que nós. O mistério não é obstáculo à fé; é seu combustível."
+  },
+  {
+    diaDoAno: 264,
+    capitulo: 9, versiculo: "1",
+    texto: "Os justos e os sábios, e as suas obras, estão na mão de Deus.",
+    comentarioTeologico: "'Na mão de Deus' — a localização mais segura do universo. A doutrina reformada da perseverança dos santos (o 'P' de TULIP) tem base nessa afirmação: ninguém pode arrebatá-los da mão do Pai (Jo 10.29). Não é nossa firmeza que nos mantém — é a mão divina que nos sustenta enquanto nossa própria mão falha."
+  },
+  {
+    diaDoAno: 265,
+    capitulo: 9, versiculo: "4",
+    texto: "Para todo aquele que está entre os vivos há esperança; porque melhor é o cão vivo do que o leão morto.",
+    comentarioTeologico: "A vida como janela da graça. A teologia reformada da conversão afirma que o chamado eficaz pode acontecer em qualquer momento da vida — Deus não está limitado por nossas cronologias. A urgência da pregação tem raiz aqui: enquanto há vida, há possibilidade de arrependimento e fé."
+  },
+  {
+    diaDoAno: 266,
+    capitulo: 9, versiculo: "7",
+    texto: "Vai, pois, come o teu pão com alegria, e bebe o teu vinho com coração alegre; porque já há muito Deus aprovou as tuas obras.",
+    comentarioTeologico: "A aprovação prévia como fundamento da alegria presente. Na estrutura do Evangelho, a justificação precede a santificação: somos aprovados em Cristo antes de qualquer obra nossa. Essa sequência liberta o crente para agir na alegria da aceitação, e não na ansiedade da busca por aprovação ainda não concedida."
+  },
+  {
+    diaDoAno: 267,
+    capitulo: 9, versiculo: "9",
+    texto: "Goza da vida com a mulher que amas todos os dias da vida da tua vaidade.",
+    comentarioTeologico: "O casamento como santuário no meio da vaidade. A teologia reformada do matrimônio — que Lutero e Calvino resgataram do celibatismo compulsório medieval — vê o amor conjugal como sacramento da aliança entre Cristo e a Igreja. Gozar da vida com quem amamos é teologia encarnada, não escape da realidade."
+  },
+  {
+    diaDoAno: 268,
+    capitulo: 9, versiculo: "10",
+    texto: "Tudo que te vier à mão para fazer, faze-o conforme as tuas forças.",
+    comentarioTeologico: "A excelência como obrigação vocacional. Calvino ensinava que fazer bem o trabalho cotidiano é glorificar a Deus tanto quanto orar. O artesão que entrega uma obra perfeita, o professor que prepara uma aula com cuidado, o médico que ouve seu paciente com atenção — todos glorificam a Deus pela excelência de suas mãos."
+  },
+  {
+    diaDoAno: 269,
+    capitulo: 9, versiculo: "11",
+    texto: "A corrida não é para os ágeis, nem a batalha para os fortes.",
+    comentarioTeologico: "A providência desmonta o determinismo meritocrático. Os resultados não dependem apenas de quem tem mais talento ou força — o soberano distribui suas bênçãos conforme sua sabedoria, não conforme nossos méritos. Isso humilha o orgulhoso e consola o que se sente insuficiente: o Deus que chama os fracos (1Co 1.27) ainda age assim."
+  },
+  {
+    diaDoAno: 270,
+    capitulo: 9, versiculo: "17",
+    texto: "As palavras dos sábios, ouvidas em silêncio, valem mais do que o clamor do que governa entre os tolos.",
+    comentarioTeologico: "O silêncio como ambiente da sabedoria. A pregação expositiva reformada — longa, substancial, exigindo atenção silenciosa — contrasta com o espetáculo religioso que governa pelo clamor emocional. A Palavra precisa de silêncio para pousar no coração: a congregação que sabe ouvir em silêncio é congregação que cresce em sabedoria."
+  },
+  {
+    diaDoAno: 271,
+    capitulo: 10, versiculo: "1",
+    texto: "As moscas mortas fazem que o ungüento do perfumista cheire mal.",
+    comentarioTeologico: "A pequena concessão que contamina a grande virtude. A santificação reformada leva a sério os 'pequenos pecados' precisamente porque eles corrompem silenciosamente o que levou anos para construir. A vigilância espiritual (nepsis, na tradição patrística) — cultivada pelos puritanos como exame diário — é o antídoto contra as moscas mortas do caráter."
+  },
+  {
+    diaDoAno: 272,
+    capitulo: 10, versiculo: "4",
+    texto: "Se o espírito do príncipe se levantar contra ti, não abandonas o teu lugar; porque a mansidão evita grandes faltas.",
+    comentarioTeologico: "A mansidão como estratégia política e espiritual. A teologia reformada da resistência ao tirano (desenvolvida por Calvino no Livro IV da Institutio e por Rutherford em Lex Rex) nunca foi reativa ou violenta em primeira instância: começa pela mansidão paciente que confia que Deus é o defensor supremo dos seus."
+  },
+  {
+    diaDoAno: 273,
+    capitulo: 10, versiculo: "8",
+    texto: "O que abre uma cova, nela cairá; e ao que desfaz uma sebe, uma cobra o morderá.",
+    comentarioTeologico: "O princípio de retribuição imanente — as consequências do mal retornam ao agente. A teologia reformada não reduz a providência a este mecanismo simples (Jó e o Pregador complicam a equação), mas reconhece que Deus frequentemente usa as próprias escolhas humanas como instrumento de julgamento temporal."
+  },
+  {
+    diaDoAno: 274,
+    capitulo: 10, versiculo: "10",
+    texto: "Se o machado estiver embotado, e não se lhe afiar o corte, ter-se-á de empregar mais força; mas a sabedoria tem a vantagem de dar êxito.",
+    comentarioTeologico: "A preparação como sabedoria prática e espiritual. O pregador que estuda a Escritura diariamente, o pai que investe tempo na formação dos filhos, o cristão que cultiva a oração na ausência de crise — todos estão afiando o machado. A sabedoria preveniente é mais eficaz que o esforço reativo."
+  },
+  {
+    diaDoAno: 275,
+    capitulo: 10, versiculo: "12",
+    texto: "As palavras da boca do sábio são graciosas; mas os lábios do tolo o consomem.",
+    comentarioTeologico: "A graça nas palavras como marca do renovado pelo Espírito. Paulo pede que nossas palavras sejam 'sempre agradáveis, temperadas com sal' (Cl 4.6). A língua santificada não é língua sem convicção — é língua que combina verdade e graça, firmeza e gentileza, da maneira que o próprio Cristo exemplificou."
+  },
+  {
+    diaDoAno: 276,
+    capitulo: 10, versiculo: "14",
+    texto: "O tolo multiplica palavras; o homem não sabe o que há de ser.",
+    comentarioTeologico: "A prolixidade como sintoma de ignorância da soberania de Deus. Quem fala muito sobre o futuro revela que não descansou nele. A espiritualidade reformada da confiança providencial produz uma certa concisão — porque quem sabe que Deus controla o futuro não precisa especular ansiosamente sobre ele."
+  },
+  {
+    diaDoAno: 277,
+    capitulo: 11, versiculo: "1",
+    texto: "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.",
+    comentarioTeologico: "A generosidade como semeadura de fé. A doutrina reformada da mordomia cristã ensina que os recursos confiados a nós são sementes, não entesouros. Lançar o pão sobre as águas é ato de fé radical na providência: não vejo como nem quando retornará, mas confio no Senhor das colheitas que prometeu que retornará."
+  },
+  {
+    diaDoAno: 278,
+    capitulo: 11, versiculo: "2",
+    texto: "Reparte com sete e ainda com oito, porque não sabes que mal haverá sobre a terra.",
+    comentarioTeologico: "A diversificação da generosidade como sabedoria diante da incerteza. A ética reformada da misericórdia — desenvolvida pelos puritanos em suas 'poor laws' e por Calvino no sistema diaconal de Genebra — ensina que a generosidade ampla é proteção mútua: o que damos hoje pode ser o que precisaremos receber amanhã."
+  },
+  {
+    diaDoAno: 279,
+    capitulo: 11, versiculo: "5",
+    texto: "Assim como tu não sabes qual é o caminho do vento, nem como os ossos crescem no ventre da mulher grávida, assim também não sabes as obras de Deus.",
+    comentarioTeologico: "O mistério da vida humana como janela para o mistério divino. A ciência moderna desvendou muito do mistério biológico da gestação — mas o Pregador aponta para algo além da biologia: a pergunta pelo sentido, pelo propósito, pelo autor. Nenhuma tomografia responde quem é o Deus que faz crescer os ossos."
+  },
+  {
+    diaDoAno: 280,
+    capitulo: 11, versiculo: "6",
+    texto: "De manhã semeia a tua semente, e à tarde não retenhas a tua mão.",
+    comentarioTeologico: "A diligência contínua sem ansiedade pelo resultado — perfil do crente que confia na providência. A parábola do semeador (Mc 4) ressoa aqui: o semeador semeia sem controlar o solo, e o Deus que dá o crescimento decide o resultado. Nossa responsabilidade é semear fielmente; a colheita pertence a ele."
+  },
+  {
+    diaDoAno: 281,
+    capitulo: 11, versiculo: "7",
+    texto: "Doce é a luz, e agradável aos olhos é ver o sol.",
+    comentarioTeologico: "A beleza simples como presença de Deus. A teologia natural reformada — cuidadosamente diferenciada da teologia natural como caminho de salvação — ensina que a criação revela algo de Deus (Rm 1.20). Ver o sol nascer e reconhecê-lo como presença do Pai das luzes é ato de piedade cotidiana acessível a todos."
+  },
+  {
+    diaDoAno: 282,
+    capitulo: 11, versiculo: "9",
+    texto: "Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua juventude.",
+    comentarioTeologico: "O convite à alegria juvenil dentro dos limites da responsabilidade escatológica. A teologia reformada da juventude não é puritanismo repressivo — é a sabedoria que diz: goza tudo o que Deus deu, e lembra que prestarás contas de como usaste esse dom. A juventude é graça, não direito adquirido."
+  },
+  {
+    diaDoAno: 283,
+    capitulo: 12, versiculo: "1",
+    texto: "Lembra-te do teu Criador nos dias da tua mocidade, antes que venham os maus dias.",
+    comentarioTeologico: "A memória do Criador como âncora identitária. Lembrar de Deus na juventude não é projeto de velho — é a escolha mais jovem que existe, porque inaugura uma vida inteira de sabedoria. A teologia reformada da educação cristã tem aqui seu mandato: ensinar as crianças a lembrar do Criador antes que o mundo as ensine a esquecê-lo."
+  },
+  {
+    diaDoAno: 284,
+    capitulo: 12, versiculo: "2",
+    texto: "Antes que se escureça o sol, e a luz, e a lua, e as estrelas.",
+    comentarioTeologico: "O poema do envelhecimento como meditação cosmológica. O Pregador usa a linguagem do apocalipse para descrever o declínio do corpo individual — como se o escurecimento das luminárias fosse o ocaso de um universo particular. A teologia reformada da escatologia pessoal vê a morte como horizonte iluminado pela promessa da ressurreição."
+  },
+  {
+    diaDoAno: 285,
+    capitulo: 12, versiculo: "7",
+    texto: "E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.",
+    comentarioTeologico: "O retorno ao Doador como consumação. A escatologia reformada distingue entre o estado intermediário (o espírito com Deus após a morte) e a ressurreição final (o corpo glorificado reunido ao espírito). Ambos os momentos são retorno — ao Deus que deu o espírito e ao Deus que redimirá também o pó."
+  },
+  {
+    diaDoAno: 286,
+    capitulo: 12, versiculo: "8",
+    texto: "Vaidade das vaidades, diz o pregador; tudo é vaidade.",
+    comentarioTeologico: "O inclusio que fecha o livro como abriu. Mas o leitor que percorreu todos os doze capítulos sabe que 'vaidade' não é a última palavra — é o contexto que torna as últimas palavras necessárias: tema a Deus, guarda os mandamentos, vive na alegria dos dons comuns, aguarda o juízo. Vaidade não é niilismo; é purificação do olhar."
+  },
+  {
+    diaDoAno: 287,
+    capitulo: 12, versiculo: "13",
+    texto: "Ouçamos a conclusão de tudo: Teme a Deus e guarda os seus mandamentos; porque isso é o dever de todo homem.",
+    comentarioTeologico: "A conclusão de Eclesiastes como resumo da ética bíblica inteira. Temer a Deus (reverência, adoração, obediência) e guardar os mandamentos (lei como resposta de gratidão, não como meio de salvação) — esses dois elementos formam a coluna vertebral da piedade reformada. Toda outra sabedoria é derivada daqui."
+  },
+  {
+    diaDoAno: 288,
+    capitulo: 12, versiculo: "14",
+    texto: "Porque Deus há de trazer a juízo toda obra, até toda obra encoberta, quer seja boa ou má.",
+    comentarioTeologico: "O juízo final como horizonte que ilumina o presente. Para o crente em Cristo, este versículo não é terror — é libertação. Porque o Juiz é também o Advogado, o mesmo Cristo que intercede por nós é quem nos julgará. O julgamento das obras do crente não determina a salvação, mas revela a fidelidade do Espírito que obrou nele."
+  },
+  {
+    diaDoAno: 289,
+    capitulo: 1, versiculo: "2",
+    texto: "Vaidade das vaidades, diz o pregador, vaidade das vaidades! Tudo é vaidade.",
+    comentarioTeologico: "Terceira leitura do versículo inaugural. A sabedoria bíblica é espiral, não linear: cada volta traz mais profundidade. Agostinho leu Eclesiastes várias vezes ao longo da vida e afirmava que cada leitura revelava algo novo. O Espírito usa o mesmo texto de modos diferentes conforme a maturidade do leitor — a Palavra cresce conosco."
+  },
+  {
+    diaDoAno: 290,
+    capitulo: 1, versiculo: "5",
+    texto: "O sol nasce, e o sol se põe, e volta ao seu lugar, e lá nasce novamente.",
+    comentarioTeologico: "A fidelidade do sol como parábola da fidelidade de Deus. As lamentações prometem que 'as misericórdias do Senhor se renovam a cada manhã' (Lm 3.23). O nascer do sol não é apenas fenômeno astronômico — é sacramento da graça diária, lembrete de que o Deus que sustentou ontem sustentará hoje."
+  },
+  {
+    diaDoAno: 291,
+    capitulo: 1, versiculo: "8",
+    texto: "Todas as coisas estão cheias de cansaço; o homem não pode exprimi-lo.",
+    comentarioTeologico: "O cansaço existencial como condição pós-queda. Jesus prometeu descanso aos cansados (Mt 11.28) — e a promessa pressupõe o diagnóstico do Pregador. A teologia reformada da regeneração entende que o descanso prometido por Cristo não é cessação da atividade, mas mudança de mestre: do trabalho para o vento ao trabalho para a glória de Deus."
+  },
+  {
+    diaDoAno: 292,
+    capitulo: 2, versiculo: "14",
+    texto: "O sábio tem olhos na cabeça, mas o tolo anda nas trevas.",
+    comentarioTeologico: "A iluminação como metáfora da regeneração. A teologia reformada do novo nascimento (Jo 3) é essencialmente uma abertura dos olhos: o que estava cego passa a ver (Jo 9.25). A sabedoria de Eclesiastes — ver a realidade como ela é, incluindo a vaidade — é ela mesma um dom da graça, não conquista da razão autônoma."
+  },
+  {
+    diaDoAno: 293,
+    capitulo: 2, versiculo: "24",
+    texto: "Não há bem para o homem senão comer e beber, e fazer que a sua alma goze o bem no seu trabalho.",
+    comentarioTeologico: "O sábio cultiva a capacidade de gozar. A teologia reformada da graça comum não apenas permite — exige — que cultivemos a arte de receber os dons simples com prazer genuíno. O crente que nunca sente alegria ao comer, ao trabalhar, ao descansar, pode estar praticando um espiritualismo que desdenha a criação que Deus declarou boa."
+  },
+  {
+    diaDoAno: 294,
+    capitulo: 3, versiculo: "11",
+    texto: "Ele fez tudo formoso no seu devido tempo; também pôs a eternidade no coração do homem.",
+    comentarioTeologico: "A eternidade plantada no coração humano é a semente do descontentamento que só Deus pode saciar. C.S. Lewis formulou isso como o 'argumento do desejo': se temos um desejo que nada neste mundo pode satisfazer, é evidência de que fomos criados para outro mundo. A teologia reformada vê nisso não apenas argumento filosófico, mas vocação pastoral."
+  },
+  {
+    diaDoAno: 295,
+    capitulo: 3, versiculo: "14",
+    texto: "Sei que tudo quanto Deus faz durará para sempre; não se lhe pode acrescentar coisa alguma, nem tirar.",
+    comentarioTeologico: "A imutabilidade das obras de Deus como fundamento da segurança do crente. Os decretos eternos, a eleição, a justificação, a glorificação — tudo que Deus decidiu e fez em Cristo é permanente. Esta certeza não produz arrogância, mas adoração: aquele que nos sustenta é o mesmo que fez o universo e não pode ser alterado."
+  },
+  {
+    diaDoAno: 296,
+    capitulo: 4, versiculo: "9",
+    texto: "Melhor são dois do que um, porque têm melhor paga do seu trabalho.",
+    comentarioTeologico: "O princípio da comunidade como amplificador da vocação. A eclesiologia reformada rejeita o cristianismo individualista — a fé é pessoal, mas nunca privada. A Igreja não é reunião de indivíduos que casualmente frequentam o mesmo lugar: é corpo orgânico onde cada membro potencializa o dom dos outros."
+  },
+  {
+    diaDoAno: 297,
+    capitulo: 4, versiculo: "13",
+    texto: "Melhor é o jovem pobre e sábio do que o rei velho e tolo, que não aceita mais conselho.",
+    comentarioTeologico: "A incapacidade de receber conselho como sintoma espiritual grave. A Reforma protestante foi em grande parte a voz de jovens (Lutero, Calvino, Zwínglio) confrontando o establishment eclesiástico que 'não aceitava mais conselho'. A Igreja que se fecha à correção da Escritura está repetindo o erro do rei tolo do Pregador."
+  },
+  {
+    diaDoAno: 298,
+    capitulo: 5, versiculo: "2",
+    texto: "Não te precipites com a tua boca, nem o teu coração se apresse a pronunciar palavra alguma diante de Deus.",
+    comentarioTeologico: "A oração como escuta antes de fala. A tradição reformada da lectio divina e da meditação das Escrituras prepara o coração para a oração com palavras. Calvino ensinava que a oração verdadeira começa quando paramos de tentar informar Deus e começamos a nos abrir para ser formados por ele."
+  },
+  {
+    diaDoAno: 299,
+    capitulo: 5, versiculo: "12",
+    texto: "O sono do trabalhador é suave, quer coma pouco, quer coma muito.",
+    comentarioTeologico: "O sábado como institutição do descanso profundo. A teologia reformada do sábado (defendida por William Ames, Thomas Shepard e a tradição puritana) ensina que o dia de repouso semanal não é sugestão devocional — é mandamento criacional que protege a humanidade da idolatria do trabalho. Dormir bem é ato de confiança em Deus."
+  },
+  {
+    diaDoAno: 300,
+    capitulo: 6, versiculo: "9",
+    texto: "Melhor é o que os olhos veem do que o andar do desejo.",
+    comentarioTeologico: "O trecentésimo dia do ano convida a esta reflexão: o que meus olhos viram neste ano que passou? A teologia reformada da gratidão cultiva a memória das bênçãos recebidas como antídoto ao desejo insaciável do que ainda não chegou. O exercício espiritual do 'ebenezer' — 'até aqui nos ajudou o Senhor' (1Sm 7.12) — é precisamente esse olhar retrospectivo de gratidão."
+  },
+  {
+    diaDoAno: 301,
+    capitulo: 7, versiculo: "1",
+    texto: "Melhor é a boa fama do que o bom ungüento.",
+    comentarioTeologico: "O ungüento perfuma o momento; a boa fama atravessa gerações. A teologia reformada do legado cristão vê cada crente como elo de uma corrente que vem dos apóstolos e vai até a parusia. O que construímos com nossa vida — o caráter que formamos, as pessoas que discipulamos — é o ungüento que perfuma além do nosso tempo."
+  },
+  {
+    diaDoAno: 302,
+    capitulo: 7, versiculo: "5",
+    texto: "Melhor é ouvir a repreensão do sábio do que ouvir o cântico dos tolos.",
+    comentarioTeologico: "A repreensão profética como forma de amor. Os profetas do Antigo Testamento eram especialistas em ser impopulares: Amós, Jeremias, João Batista — todos disseram o que o povo não queria ouvir. A tradição reformada da pregação fiel tem essa herança: preferir a saúde espiritual do ouvinte à aprovação imediata da congregação."
+  },
+  {
+    diaDoAno: 303,
+    capitulo: 7, versiculo: "14",
+    texto: "No dia da prosperidade, goza o bem; e no dia da adversidade, considera.",
+    comentarioTeologico: "A consideração como prática contemplativa. Considerar — 'também este Deus o fez' — é o ato espiritual de reencadrar a adversidade como providência. Não é negação da dor, mas inserção da dor em um contexto maior. A teologia reformada do sofrimento ensina que o crente pode 'considerar' porque conhece o caráter do Deus que ordena os dias."
+  },
+  {
+    diaDoAno: 304,
+    capitulo: 7, versiculo: "20",
+    texto: "Não há homem justo na terra, que faça o bem e nunca peque.",
+    comentarioTeologico: "A universalidade do pecado como igualador radical. Diante deste versículo, a hierarquia humana desmorona: o rico e o pobre, o erudito e o iletrado, o religioso e o secular — todos pecadores diante de Deus. A doutrina reformada da justificação pela fé é a única resposta adequada a essa constatação universal."
+  },
+  {
+    diaDoAno: 305,
+    capitulo: 8, versiculo: "8",
+    texto: "Não há homem que tenha poder sobre o vento, para o reter; nem tem poder sobre o dia da morte.",
+    comentarioTeologico: "Os dois limites intransponíveis da existência humana: o vento e a morte. A teologia reformada celebra esses limites não como prisão, mas como convite: o que está além do nosso controle está sob o controle d'Aquele que domina o vento e a morte. Cristo ordenou ao vento (Mc 4.39) e ressuscitou dos mortos — ele habita além de ambos os limites."
+  },
+  {
+    diaDoAno: 306,
+    capitulo: 8, versiculo: "12",
+    texto: "Contudo sei que bem irá aos que temem a Deus.",
+    comentarioTeologico: "O 'contudo sei' é a declaração de fé por excelência. Em meio à evidência contrária, à prosperidade do ímpio e ao sofrimento do justo, o sábio afirma: 'contudo sei'. Esta não é ingenuidade — é a fé que opera 'pela evidência das coisas que não se veem' (Hb 11.1). O conhecimento do Pregador é escatológico antes de ser empírico."
+  },
+  {
+    diaDoAno: 307,
+    capitulo: 9, versiculo: "1",
+    texto: "Os justos e os sábios, e as suas obras, estão na mão de Deus.",
+    comentarioTeologico: "A segurança do crente não está na sua própria firmeza, mas na mão que o sustenta. A doutrina reformada da perseverança dos santos é precisamente isso: não perseveramos porque somos fortes, mas porque somos sustentados. João 10.28-29 promete que nem nossa fraqueza pode nos arrancar da mão do Pai."
+  },
+  {
+    diaDoAno: 308,
+    capitulo: 9, versiculo: "10",
+    texto: "Tudo que te vier à mão para fazer, faze-o conforme as tuas forças.",
+    comentarioTeologico: "A urgência ética motivada pela escatologia. 'Na sepultura não há obra' — portanto age agora. A teologia reformada do 'já e ainda não' motiva a ação presente: o reino já chegou em Cristo, mas ainda não chegou em plenitude. Neste intervalo, somos chamados a trabalhar com urgência e confiança, sabendo que nosso trabalho não é em vão no Senhor (1Co 15.58)."
+  },
+  {
+    diaDoAno: 309,
+    capitulo: 10, versiculo: "2",
+    texto: "O coração do sábio está à sua direita; mas o coração do tolo está à sua esquerda.",
+    comentarioTeologico: "A orientação do coração determina tudo. A teologia reformada da regeneração entende que o novo nascimento é primariamente uma reorientação do coração — do eu para Deus, da criatura para o Criador. A santificação é o processo pelo qual essa reorientação se aprofunda, estende e consolida em todas as áreas da vida."
+  },
+  {
+    diaDoAno: 310,
+    capitulo: 10, versiculo: "12",
+    texto: "As palavras da boca do sábio são graciosas.",
+    comentarioTeologico: "A graça nas palavras como reflexo da graça recebida. Quem foi tratado com misericórdia aprende a falar com misericórdia. A tradição reformada da pregação — que preza pela fidelidade à Palavra e pela gentileza com o ouvinte — tem sua raiz mais profunda aqui: o pregador que conheceu a graça não pode deixar de falar graciosamente."
+  },
+  {
+    diaDoAno: 311,
+    capitulo: 11, versiculo: "1",
+    texto: "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.",
+    comentarioTeologico: "A generosidade como investimento escatológico. O Sermão do Monte promete que o que se dá aos pobres se dá a Cristo (Mt 25.40). Lançar o pão sobre as águas é confiar que Deus é o mais fiel dos devedores — o que se semeia na terra em amor ao próximo germina no reino eterno, onde o retorno é infinitamente maior que o investimento."
+  },
+  {
+    diaDoAno: 312,
+    capitulo: 11, versiculo: "4",
+    texto: "O que observa o vento não semeará; e o que olha para as nuvens não segará.",
+    comentarioTeologico: "A paralisia por análise como inimiga da fé. A teologia reformada da ação prude não é espera passiva por condições perfeitas, mas discernimento seguido de decisão. Calvino ensinava que devemos usar todos os meios disponíveis e agir com confiança no Senhor — esperar condições ideais é frequentemente desconfiança disfarçada de prudência."
+  },
+  {
+    diaDoAno: 313,
+    capitulo: 11, versiculo: "6",
+    texto: "De manhã semeia a tua semente, e à tarde não retenhas a tua mão.",
+    comentarioTeologico: "A diligência contínua como vocação. A Reforma resgatou a noção de que o trabalho diário é chamado de Deus — não apenas o trabalho religioso, mas todo trabalho legítimo. O lavrador que semeia de manhã à tarde, o artesão que trabalha do amanhecer ao crepúsculo, ambos estão respondendo ao chamado divino com fidelidade vocacional."
+  },
+  {
+    diaDoAno: 314,
+    capitulo: 12, versiculo: "1",
+    texto: "Lembra-te do teu Criador nos dias da tua mocidade.",
+    comentarioTeologico: "O mandato da memória como fundação da identidade. Lembrar do Criador é reconhecer que não me criei, não me sustento, não me salvei. A teologia reformada começa com Deus — no princípio, Deus criou — e termina com Deus — a ele toda glória. A vida cristã entre esses dois pontos é uma memória continuamente renovada."
+  },
+  {
+    diaDoAno: 315,
+    capitulo: 12, versiculo: "7",
+    texto: "E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.",
+    comentarioTeologico: "O retorno como horizonte que orienta a caminhada. O crente que sabe que seu espírito retornará ao Deus que o deu vive de forma diferente — cada dia é preparação para o encontro. A teologia reformada da morte como 'passagem' (Calvino: transitus) transforma o medo da morte em expectativa: não sabemos o momento, mas conhecemos o destino."
+  },
+  {
+    diaDoAno: 316,
+    capitulo: 1, versiculo: "3",
+    texto: "Que proveito tem o homem de todo o seu trabalho com que se afadiga debaixo do sol?",
+    comentarioTeologico: "A pergunta sobre o proveito do trabalho ressoa diferente nos últimos dias do ano. O que construí neste ano que passou? A avaliação reformada não é baseada em resultados visíveis — pois o Senhor que dá o crescimento (1Co 3.7) trabalha em profundidades que a análise humana não alcança. O proveito real do trabalho fiel é sempre maior do que o que podemos ver."
+  },
+  {
+    diaDoAno: 317,
+    capitulo: 1, versiculo: "9",
+    texto: "Não há nada novo debaixo do sol.",
+    comentarioTeologico: "O que parece radicalmente novo é frequentemente variação do antigo. A tradição reformada do 'semper reformanda' — sempre reformando — não é novidade pela novidade, mas fidelidade renovada ao mesmo Evangelho eterno. A Igreja que se mantém fiel à Palavra invariável é a Igreja que tem algo verdadeiramente novo a oferecer ao mundo."
+  },
+  {
+    diaDoAno: 318,
+    capitulo: 2, versiculo: "11",
+    texto: "Tudo era vaidade e correr atrás do vento.",
+    comentarioTeologico: "O balanço anual como exercício espiritual. Ao aproximar-se o fim do ano, o Pregador nos convida a examinar: o que persegui que era vento? A tradição reformada do exame de consciência — praticada pelos puritanos como disciplina semanal e anual — tem raiz nesse gesto de Salomão: olhar para trás com honestidade para reorientar o futuro."
+  },
+  {
+    diaDoAno: 319,
+    capitulo: 2, versiculo: "26",
+    texto: "Porque Deus dá ao homem que lhe é bom à sua vista, sabedoria, e conhecimento, e alegria.",
+    comentarioTeologico: "Sabedoria, conhecimento e alegria como presentes do novo ano. A teologia reformada da graça capacitante — a graça que não apenas perdoa mas capacita — é promessa de que Deus não apenas nos justifica, mas nos equipa. O novo ano pode ser recebido com expectativa: o Deus que deu esses dons no passado pode e quer dá-los novamente."
+  },
+  {
+    diaDoAno: 320,
+    capitulo: 3, versiculo: "1",
+    texto: "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu.",
+    comentarioTeologico: "O poema dos tempos como meditação para o fim do ano. Houve tempo de plantar e de arrancar, de chorar e de rir, de guardar e de lançar fora. A soberania de Deus sobre os tempos significa que nada deste ano foi acidente — cada momento, agradável ou difícil, foi ordenado pelo Pai que conhece o fim desde o princípio."
+  },
+  {
+    diaDoAno: 321,
+    capitulo: 3, versiculo: "11",
+    texto: "Ele fez tudo formoso no seu devido tempo.",
+    comentarioTeologico: "A formosura do devido tempo como consolação para o que ainda não aconteceu. O que esperamos — cura, reconciliação, provisão, vocação — tem seu tempo marcado na soberania de Deus. A teologia reformada da esperança cristã não é otimismo ingênuo: é confiança fundamentada no caráter d'Aquele que 'fez tudo formoso no seu devido tempo'."
+  },
+  {
+    diaDoAno: 322,
+    capitulo: 3, versiculo: "14",
+    texto: "Tudo quanto Deus faz durará para sempre.",
+    comentarioTeologico: "A permanência das obras de Deus como fundamento da esperança. O que Deus começou em nós — a obra da regeneração, da santificação, da vocação — permanecerá até o dia de Cristo Jesus (Fp 1.6). Esta promessa transforma o fim do ano: não o que eu construí, mas o que Deus construiu em mim, durará para sempre."
+  },
+  {
+    diaDoAno: 323,
+    capitulo: 4, versiculo: "6",
+    texto: "Melhor é um punhado de descanso do que as duas mãos cheias de trabalho.",
+    comentarioTeologico: "A sabedoria do descanso sabático como preparação para o novo ano. A teologia reformada do sábado — não como fardo legalista, mas como presente criacional — convida ao descanso que renova a capacidade de trabalhar bem. O crente que descansa em Deus trabalha com mais sabedoria; o que nunca descansa trabalha com mais agitação."
+  },
+  {
+    diaDoAno: 324,
+    capitulo: 5, versiculo: "1",
+    texto: "Chegar-te para ouvir é melhor do que oferecer o sacrifício dos tolos.",
+    comentarioTeologico: "Ouvir antes de oferecer — sequência que molda toda a espiritualidade reformada. O culto começa com a leitura e pregação da Palavra, não com nossas ofertas. Somos formados pelo que ouvimos antes de responder com o que damos. A Igreja que inverte essa ordem — muito fazer, pouco ouvir — corre o risco de oferecer o sacrifício dos tolos."
+  },
+  {
+    diaDoAno: 325,
+    capitulo: 5, versiculo: "7",
+    texto: "Teme, pois, a Deus.",
+    comentarioTeologico: "Três palavras que resumem todo o livro. O temor de Deus na teologia reformada é a resposta integral à revelação integral de Deus: reverência diante de sua majestade, confiança em sua bondade, obediência à sua lei, gratidão pela sua graça. Não é paralisia de medo, mas postura de criatura diante do Criador que é também Pai."
+  },
+  {
+    diaDoAno: 326,
+    capitulo: 5, versiculo: "18",
+    texto: "É bom e agradável comer e beber, e gozar do bem de todo o seu trabalho.",
+    comentarioTeologico: "A mesa como sacramento cotidiano. A teologia reformada da Ceia do Senhor — que celebra a refeição semanal como memória, comunhão e antecipação — encontra eco nessa afirmação do Pregador. Toda refeição recebida com ação de graças é réplica em miniatura da ceia escatológica onde o Cordeiro festejará com os seus."
+  },
+  {
+    diaDoAno: 327,
+    capitulo: 7, versiculo: "2",
+    texto: "Melhor é ir à casa do luto do que à casa do banquete.",
+    comentarioTeologico: "O luto purifica enquanto o banquete anestesia. A espiritualidade reformada do fim do ano inclui o luto pelos erros, pela arrogância, pelas oportunidades perdidas de amor — não o luto que condena, mas o luto que limpa e prepara o coração para recomeçar. A confissão de pecados é a casa do luto que precede a festa do perdão."
+  },
+  {
+    diaDoAno: 328,
+    capitulo: 7, versiculo: "8",
+    texto: "Melhor é o fim de alguma coisa do que o seu começo; melhor é o longânimo do que o altivo de espírito.",
+    comentarioTeologico: "O fim como revelação do que o começo prometeu. O ano que termina revela o que o ano que começou em janeiro prometia. A teologia reformada da perseverança não se satisfaz com bons começos — celebra os fins fiéis. 'Combati o bom combate, acabei a corrida, guardei a fé' (2Tm 4.7): este é o fim que o Espírito quer produzir em cada crente."
+  },
+  {
+    diaDoAno: 329,
+    capitulo: 7, versiculo: "14",
+    texto: "No dia da prosperidade, goza o bem; e no dia da adversidade, considera: também este como aquele Deus o fez.",
+    comentarioTeologico: "Ao encerrar mais um ano, o Pregador nos convida ao balanço providencial. Os dias de prosperidade deste ano foram dons do Pai das luzes; os dias de adversidade também foram ordenados por suas mãos que nunca erram. A fé que declara 'também este Deus o fez' sobre os dias difíceis é a fé que pode entrar no novo ano sem medo."
+  },
+  {
+    diaDoAno: 330,
+    capitulo: 8, versiculo: "12",
+    texto: "Contudo sei que bem irá aos que temem a Deus.",
+    comentarioTeologico: "A certeza escatológica como provisão para o ano que começa. 'Contudo sei' — apesar das evidências contrárias, apesar das dúvidas, apesar dos dias que não fizeram sentido — 'sei que bem irá'. Esta ciência não é empírica, é baseada no caráter de Deus revelado em Cristo. É a âncora que o ano que passa legou ao ano que começa."
+  },
+  {
+    diaDoAno: 331,
+    capitulo: 9, versiculo: "7",
+    texto: "Come o teu pão com alegria, e bebe o teu vinho com coração alegre; porque já há muito Deus aprovou as tuas obras.",
+    comentarioTeologico: "A aprovação divina como fundamento da celebração. No fim e no início do ano, a teologia reformada da justificação oferece este presente: você já foi aprovado em Cristo. Não precisa ganhar aprovação no novo ano — já a tem. Esta certeza transforma a celebração de angustiosa performance em gratidão genuína."
+  },
+  {
+    diaDoAno: 332,
+    capitulo: 9, versiculo: "11",
+    texto: "A corrida não é para os ágeis, nem a batalha para os fortes.",
+    comentarioTeologico: "A soberania de Deus sobre os resultados liberta da pressão de ser o melhor. No novo ano, o crente reformado não precisa ser o mais rápido, o mais forte, o mais talentoso. Precisa ser fiel ao chamado recebido, confiando que o Senhor que distribui os dons também distribui as vitórias conforme sua sabedoria, não conforme nossa performance."
+  },
+  {
+    diaDoAno: 333,
+    capitulo: 11, versiculo: "2",
+    texto: "Reparte com sete e ainda com oito, porque não sabes que mal haverá sobre a terra.",
+    comentarioTeologico: "A generosidade preventiva como sabedoria escatológica. Não sabemos o que o novo ano trará — daí a urgência de semear generosidade agora. A tradição reformada da mordomia sistemática — planejamento intencional da generosidade — tem raiz nessa sabedoria: não espere pela necessidade alheia para planejar a dádiva; planeje agora, enquanto ainda há tempo e recursos."
+  },
+  {
+    diaDoAno: 334,
+    capitulo: 12, versiculo: "1",
+    texto: "Lembra-te do teu Criador nos dias da tua mocidade, antes que venham os maus dias.",
+    comentarioTeologico: "A memória do Criador como prática espiritual renovada a cada ano. O Pregador não disse 'lembra-te apenas na juventude' — disse 'antes que venham os maus dias'. A cada novo ano, renovamos a memória do Criador: quem somos, de quem somos, para que somos. Esta renovação da identidade é o fundamento de tudo o mais que o novo ano pode trazer."
+  },
+  {
+    diaDoAno: 335,
+    capitulo: 12, versiculo: "13",
+    texto: "Teme a Deus e guarda os seus mandamentos; porque isso é o dever de todo homem.",
+    comentarioTeologico: "A conclusão de Eclesiastes como propósito para o novo ano. Não prosperidade, não saúde, não sucesso — teme a Deus e guarda seus mandamentos. A simplicidade desta conclusão é desconcertante em sua profundidade: toda a complexidade do livro resolve nesta clareza. O crente reformado pode entrar no novo ano com esta única agenda e ter mais do que suficiente."
+  },
+  {
+    diaDoAno: 336,
+    capitulo: 1, versiculo: "2",
+    texto: "Vaidade das vaidades, diz o pregador, tudo é vaidade.",
+    comentarioTeologico: "Aproximamo-nos do fim do ano e o Pregador nos lembra: a maior conquista deste ano, se não foi feita para Deus, é vaidade. A teologia reformada da glória de Deus — soli Deo gloria — é o único antídoto para a vaidade. O que foi feito para a glória de Deus permanece; o que foi feito para a nossa própria glória passa como névoa."
+  },
+  {
+    diaDoAno: 337,
+    capitulo: 1, versiculo: "14",
+    texto: "Eis que tudo é vaidade e correr atrás do vento.",
+    comentarioTeologico: "O vento que perseguimos revela o deus que servimos. A idolatria é sempre correr atrás do vento — dinheiro, aprovação, poder, prazer. A teologia reformada da conversão é precisamente a mudança de direção: de correr atrás do vento para aguardar o sopro do Espírito. O mesmo vento que o homem caído persegue é o Espírito que o homem renovado aguarda."
+  },
+  {
+    diaDoAno: 338,
+    capitulo: 3, versiculo: "1",
+    texto: "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu.",
+    comentarioTeologico: "Os últimos dias do ano são tempo de conclusão, não de novos começos. A sabedoria de reconhecer o tempo é saber quando concluir bem antes de começar de novo. A teologia reformada do ciclo litúrgico — que termina com o Advento e recomeça com o Natal — nos ensina que o fim e o começo são inseparáveis: toda conclusão é preparação."
+  },
+  {
+    diaDoAno: 339,
+    capitulo: 3, versiculo: "11",
+    texto: "Ele fez tudo formoso no seu devido tempo; também pôs a eternidade no coração do homem.",
+    comentarioTeologico: "A eternidade no coração humano é o que nos impede de estar plenamente satisfeitos com qualquer ano que passe. Cada ano bom deixa saudade do próximo; cada ano difícil deixa esperança no próximo. A teologia reformada da esperança escatológica não é evasão do presente, mas reconhecimento de que o melhor ainda está por vir: a pátria que nenhum ano deste mundo pode oferecer."
+  },
+  {
+    diaDoAno: 340,
+    capitulo: 5, versiculo: "1",
+    texto: "Guarda o teu pé quando fores à casa de Deus.",
+    comentarioTeologico: "A reverência na casa de Deus como postura permanente. Os últimos dias do ano convidam à reflexão sobre como nos aproximamos de Deus no culto ao longo destes meses — com atenção ou com distração, com preparo ou com pressa. A teologia reformada do culto digno não é formalismo: é reverência nascida do amor ao Deus que habita naquele lugar."
+  },
+  {
+    diaDoAno: 341,
+    capitulo: 7, versiculo: "29",
+    texto: "Deus fez o homem reto, mas ele se meteu em muitas astúcias.",
+    comentarioTeologico: "As astúcias do ano que passou — os desvios, as justificativas, as racionalizações — são evidência da mesma queda que o Pregador descreve. A confissão final do ano não precisa de inventário detalhado: basta a confissão simples de que nos metemos em muitas astúcias, e a fé de que a retidão de Cristo cobre onde a nossa falhou."
+  },
+  {
+    diaDoAno: 342,
+    capitulo: 9, versiculo: "1",
+    texto: "Os justos e os sábios, e as suas obras, estão na mão de Deus.",
+    comentarioTeologico: "Encerrar o ano 'na mão de Deus' é a posição mais segura que existe. As obras que fizemos — as boas que Deus nos deu graça para realizar, as que gostaríamos de ter feito melhor — tudo está na mão do Juiz que é também Pai e Redentor. Essa mão não solta: o ano que termina deixa tudo que lhe pertence em mãos que sustentam eternamente."
+  },
+  {
+    diaDoAno: 343,
+    capitulo: 11, versiculo: "1",
+    texto: "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.",
+    comentarioTeologico: "O pão lançado neste ano retornará — talvez não neste ano, mas na fidelidade do Deus que não esquece nenhuma semeadura feita em seu nome. A teologia reformada da recompensa escatológica não é mercantilismo espiritual: é confiança no caráter do Pai que vê em secreto e recompensa abertamente (Mt 6.4). O que foi semeado com fé não se perde."
+  },
+  {
+    diaDoAno: 344,
+    capitulo: 12, versiculo: "7",
+    texto: "E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.",
+    comentarioTeologico: "O retorno ao Doador como perspectiva que orienta cada dia. Quando sabemos que tudo retorna a Deus — o pó do corpo e o espírito da alma — cada dia é vivido sob essa luz. A teologia reformada da escatologia não é morbidez: é realismo que liberta. Saber que tudo voltará a Deus nos liberta para usar bem o que temos enquanto o temos."
+  },
+  {
+    diaDoAno: 345,
+    capitulo: 12, versiculo: "13",
+    texto: "Teme a Deus e guarda os seus mandamentos.",
+    comentarioTeologico: "A conclusão de Eclesiastes como ponto de partida para cada novo ciclo. O livro não termina com uma resposta diferente — termina com a mesma resposta aprofundada. A teologia reformada da santificação progressiva tem essa estrutura: não é descoberta de novas verdades, mas aprofundamento das verdades antigas. Temer a Deus a cada dia é sempre novidade, nunca rotina."
+  },
+  {
+    diaDoAno: 346,
+    capitulo: 1, versiculo: "4",
+    texto: "Uma geração passa, e outra geração vem; mas a terra permanece para sempre.",
+    comentarioTeologico: "Os últimos dias do ano carregam a consciência da passagem. Gerações que nos precederam terminaram seus anos; nós também nos aproximamos do fim deste. A teologia reformada da comunhão dos santos — a Igreja de todos os tempos, visível e invisível — nos lembra que fazemos parte de um movimento muito maior que qualquer ano ou geração: a marcha do povo de Deus em direção à pátria celestial."
+  },
+  {
+    diaDoAno: 347,
+    capitulo: 2, versiculo: "24",
+    texto: "Não há bem para o homem senão comer e beber, e fazer que a sua alma goze o bem no seu trabalho.",
+    comentarioTeologico: "O contentamento como legado do ano. Ao terminar mais um ciclo, o Pregador nos convida a uma última pergunta: minha alma gozou o bem no trabalho deste ano? Não o sucesso, não o reconhecimento, não a eficiência — mas o gozo. A teologia reformada da alegria no trabalho é inseparável da presença de Deus no trabalho: ele que está presente transforma o labor em alegria."
+  },
+  {
+    diaDoAno: 348,
+    capitulo: 3, versiculo: "15",
+    texto: "O que é, já foi; e o que há de ser, já foi; e Deus procura o que já passou.",
+    comentarioTeologico: "Deus procura o que passou — e isso inclui cada dia deste ano que se encerra. Nenhum momento de fé, nenhuma oração, nenhum ato de amor feito em seu nome se perde no esquecimento divino. O Deus da aliança é o Deus da memória fiel: o que foi feito para ele foi registrado no único livro cuja tinta nunca desbota."
+  },
+  {
+    diaDoAno: 349,
+    capitulo: 5, versiculo: "18",
+    texto: "É bom e agradável comer e beber, e gozar do bem de todo o seu trabalho. Isso é dom de Deus.",
+    comentarioTeologico: "O reconhecimento final de que os bens recebidos neste ano foram dons — não conquistas, não direitos, não acidentes, mas presentes do Pai das luzes. A teologia reformada da gratidão não é sentimento difuso: é teologia precisa que nomeia o Doador em cada presente, glorificando o Deus que deu e continuará dando conforme sua infinita sabedoria."
+  },
+  {
+    diaDoAno: 350,
+    capitulo: 9, versiculo: "4",
+    texto: "Para todo aquele que está entre os vivos há esperança.",
+    comentarioTeologico: "Esperança como o dom que o ano que passa entrega ao ano que vem. Enquanto há vida, há possibilidade de arrependimento, crescimento, reconciliação, vocação descoberta, amor aprofundado. A teologia reformada da esperança cristã não é romantismo — é ancoragem na ressurreição de Cristo, que é a maior evidência de que para os vivos há sempre esperança."
+  },
+  {
+    diaDoAno: 351,
+    capitulo: 11, versiculo: "5",
+    texto: "Assim como tu não sabes qual é o caminho do vento... assim também não sabes as obras de Deus, que faz todas as coisas.",
+    comentarioTeologico: "A ignorância do futuro como convite à confiança. Não sabemos o que o ano que termina revelar-se-á ter sido em perspectiva eterna. Não sabemos o que o ano que começa trará. Mas conhecemos o Deus que faz todas as coisas — e esse conhecimento é mais que suficiente para entrar no desconhecido com paz."
+  },
+  {
+    diaDoAno: 352,
+    capitulo: 11, versiculo: "6",
+    texto: "De manhã semeia a tua semente, e à tarde não retenhas a tua mão.",
+    comentarioTeologico: "A fidelidade perseverante como herança para o ano que vem. Semear de manhã à tarde, sem saber qual prosperará — este é o retrato da fidelidade vocacional. O crente reformado não avalia sua fidelidade pelos resultados visíveis, mas pela constância da semeadura. O Deus que dá o crescimento avaliará o que foi plantado com fidelidade."
+  },
+  {
+    diaDoAno: 353,
+    capitulo: 12, versiculo: "1",
+    texto: "Lembra-te do teu Criador nos dias da tua mocidade, antes que venham os maus dias.",
+    comentarioTeologico: "A memória do Criador como ato de resistência espiritual nos últimos dias do ano. O mundo convida ao esquecimento — o consumismo do fim do ano, as festas, as resoluções humanas. O Pregador convida à memória: lembra quem és, lembra de quem és, lembra para quem és. Esta memória é o único fundamento sólido sobre o qual um novo ano pode ser edificado."
+  },
+  {
+    diaDoAno: 354,
+    capitulo: 12, versiculo: "8",
+    texto: "Vaidade das vaidades, diz o pregador; tudo é vaidade.",
+    comentarioTeologico: "A vaidade como purificação escatológica. Aproximando-nos do fim do ano, declaramos com o Pregador: o que pareceu grande foi vaidade; o que pareceu permanente passou. Mas a vaidade de todas as coisas não é desespero — é libertação. Se tudo debaixo do sol é vaidade, somos liberados para buscar o que é acima do sol: o Deus eterno que não é vaidade."
+  },
+  {
+    diaDoAno: 355,
+    capitulo: 3, versiculo: "11",
+    texto: "Também pôs a eternidade no coração do homem.",
+    comentarioTeologico: "A eternidade no coração como promessa cumprida em Cristo. Jesus disse: 'Eu sou a ressurreição e a vida' (Jo 11.25) — e com essa declaração respondeu ao anseio pela eternidade que o Pregador identificou no coração humano. A teologia reformada da vida eterna não é apenas doutrina sobre o futuro: é presente de Cristo que começa aqui, agora, no coração do crente."
+  },
+  {
+    diaDoAno: 356,
+    capitulo: 7, versiculo: "20",
+    texto: "Não há homem justo na terra, que faça o bem e nunca peque.",
+    comentarioTeologico: "A confissão universal da impotência moral como preparação para a graça. O ano que termina foi um ano de pecados — como todos os outros. Mas a teologia reformada da justificação oferece a mesma resposta que deu no começo do ano: a justiça de Cristo imputada ao crente não envelhece, não se desgasta, não precisa ser renegociada a cada novo ciclo. É suficiente para todos os anos."
+  },
+  {
+    diaDoAno: 357,
+    capitulo: 8, versiculo: "17",
+    texto: "O homem não pode descobrir a obra que se faz debaixo do sol.",
+    comentarioTeologico: "A incompreensibilidade das obras de Deus como consolo no fim do ano. Não entendemos por que algumas coisas aconteceram assim; não compreendemos o plano por trás dos eventos deste ano. Mas a teologia reformada da providência nos assegura: o que não entendemos agora, entenderemos depois. A obra continua, e seu Autor não erra."
+  },
+  {
+    diaDoAno: 358,
+    capitulo: 9, versiculo: "1",
+    texto: "Os justos e os sábios, e as suas obras, estão na mão de Deus.",
+    comentarioTeologico: "A segurança na mão de Deus como postura para encerrar o ano. Tudo que foi feito neste ano em fidelidade está na mão de Deus — protegido, registrado, frutificando conforme sua sabedoria. O crente pode encerrar o ano sem ansiedade sobre o que ficou para trás: está na mão do Pai, que não solta o que lhe pertence."
+  },
+  {
+    diaDoAno: 359,
+    capitulo: 11, versiculo: "7",
+    texto: "Doce é a luz, e agradável aos olhos é ver o sol.",
+    comentarioTeologico: "A doçura da luz como regalo de gratidão no fim do ano. Antes das últimas reflexões e dos balanços, o Pregador nos convida a parar e perceber: a luz ainda é doce; o sol ainda nasce. A teologia reformada da graça comum nos ensina que cada nascer do sol é misericórdia renovada — e o último nascer do sol do ano merece a mesma gratidão que o primeiro."
+  },
+  {
+    diaDoAno: 360,
+    capitulo: 12, versiculo: "7",
+    texto: "E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.",
+    comentarioTeologico: "O retorno ao Doador como perspectiva que ordena o fim do ano e o fim da vida. A meditação da mortalidade não é mórbida para quem sabe que o espírito retorna ao Deus que o deu — ao Deus que é Pai, que é Redentor, que é lar. O fim do ano é uma pequena morte e uma pequena ressurreição: morre um ciclo, nasce outro na providência do mesmo Deus eterno."
+  },
+  {
+    diaDoAno: 361,
+    capitulo: 12, versiculo: "12",
+    texto: "Não há limite para fazer livros, e muito estudo é enfado da carne.",
+    comentarioTeologico: "O limite do conhecimento humano como convite ao descanso. Ao aproximar-se o fim do ano, o Pregador nos liberta da compulsão de ter lido tudo, entendido tudo, resolvido tudo. O conhecimento que salva não é enciclopédico — é relacional: conhecer aquele a quem Deus enviou (Jo 17.3). Este conhecimento é simples e suficiente para todos os anos."
+  },
+  {
+    diaDoAno: 362,
+    capitulo: 12, versiculo: "13",
+    texto: "Ouçamos a conclusão de tudo: Teme a Deus e guarda os seus mandamentos.",
+    comentarioTeologico: "A conclusão do livro como propósito eterno. Doze capítulos, trinta e um dias em cada mês, trezentos e sessenta e dois dias no ano — e a conclusão é a mesma: teme a Deus e guarda os seus mandamentos. A teologia reformada celebra essa simplicidade: a vida cristã não é complexidade crescente, mas profundidade crescente naquilo que sempre foi simples e suficiente."
+  },
+  {
+    diaDoAno: 363,
+    capitulo: 12, versiculo: "14",
+    texto: "Porque Deus há de trazer a juízo toda obra, até toda obra encoberta, quer seja boa ou má.",
+    comentarioTeologico: "O juízo como horizonte que ilumina o penúltimo dia do ano. As obras deste ano — as visíveis e as escondidas, as celebradas e as que só Deus viu — todas serão trazidas à luz no grande dia. Para o crente em Cristo, essa perspectiva não produz terror: o Juiz é o mesmo Salvador que intercede por nós. O juízo das obras do crente é revelação da graça que operou nele."
+  },
+  {
+    diaDoAno: 364,
+    capitulo: 3, versiculo: "1",
+    texto: "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu.",
+    comentarioTeologico: "O último dia completo do ano é tempo de conclusão — e de gratidão. Houve tempo para cada propósito neste ano: tempo de rir e de chorar, de plantar e de arrancar, de falar e de calar. O soberano que determinou cada tempo também determinou o fim do ano, o começo do próximo, e todos os propósitos que serão cumpridos naquele que ainda não chegou. Sua soberania não tira férias no réveillon."
+  },
+  {
+    diaDoAno: 365,
+    capitulo: 12, versiculo: "13",
+    texto: "Ouçamos a conclusão de tudo: Teme a Deus e guarda os seus mandamentos; porque isso é o dever de todo homem.",
+    comentarioTeologico: "O último dia do ano, e a conclusão é a mesma que foi no primeiro: teme a Deus e guarda os seus mandamentos. A teologia reformada não promete novidade a cada ano — promete fidelidade ao mesmo Deus eterno. O crente que encerra este ano com temor a Deus e obediência aos mandamentos entrou nele exatamente como deveria: com a única conclusão que o Espírito de Deus assina no coração de seus filhos."
+  },
 ];

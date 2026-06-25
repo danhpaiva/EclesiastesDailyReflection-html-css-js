@@ -12,7 +12,21 @@
 </head>
 <body>
   <canvas id="grain" aria-hidden="true"></canvas>
+  <canvas id="hebel" aria-hidden="true"></canvas>
   <div id="progress-bar" aria-hidden="true"></div>
+
+  <!-- waves: "todos os rios correm para o mar" Ec 1.7 -->
+  <div id="waves" aria-hidden="true">
+    <svg class="wave wave-3" viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 C240,110 480,10 720,60 C960,110 1200,10 1440,60 L1440,120 L0,120 Z"/>
+    </svg>
+    <svg class="wave wave-2" viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,70 C200,20 400,100 720,50 C1040,0 1240,90 1440,70 L1440,120 L0,120 Z"/>
+    </svg>
+    <svg class="wave wave-1" viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,80 C360,30 720,110 1080,55 C1260,28 1380,85 1440,80 L1440,120 L0,120 Z"/>
+    </svg>
+  </div>
 
   <div id="app">
     <header class="site-header">
