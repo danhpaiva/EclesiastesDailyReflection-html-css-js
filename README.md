@@ -1,7 +1,7 @@
 # Eclesiastes — Reflexão Diária
 
 [![GitHub Pages](https://img.shields.io/badge/demo-live-brightgreen?logo=github)](https://danhpaiva.github.io/EclesiastesDailyReflection-html-css-js)
-[![CI](https://github.com/danhpaiva/EclesiastesDailyReflection-html-css-js/actions/workflows/ci.yml/badge.svg)](https://github.com/danhpaiva/EclesiastesDailyReflection-html-css-js/actions/workflows/ci.yml)
+[![CI](https://github.com/danhpaiva/EclesiastesDailyReflection-html-css-js/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/danhpaiva/EclesiastesDailyReflection-html-css-js/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
